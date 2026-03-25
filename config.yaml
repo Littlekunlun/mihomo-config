@@ -58,14 +58,14 @@ proxy-providers:
     override:
       additional-prefix: "Main:" #节点前缀名
     path: ./proxy_provider/proxy1.yaml
-    url: "htt2193"
+    url: "在这里填写你的订阅地址"
   
 #  proxy2:
 #    <<: *p
 #    override:
 #      additional-prefix: "xxx:" #节点前缀名
 #    path: ./proxy_provider/proxy2.yaml
-#    url: "订阅地址"
+#    url: "在这里填写你的订阅地址"
 
 # 节点记忆
 profile:
